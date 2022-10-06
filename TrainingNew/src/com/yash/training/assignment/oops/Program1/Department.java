@@ -14,7 +14,7 @@ public class Department {
 		return deptid;
 	}
 	public void setDeptid(int deptid) {
-		this.deptid = deptid;
+		this.deptid = deptid; 
 	}
 	public String getDname() {
 		return dname;
